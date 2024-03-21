@@ -1,0 +1,11 @@
+{
+  "name": "realtimesignlanguagedetectionwithtfjs",
+  "version": "1.0.0",
+  "description": "1. Export and Convert Python Model - \r 2. Host model on Cloud Object Storage - \r 3. Clone computer vision template - \r 4. Install and update dependencies - \r 5. Load graph model from url - \r 6. Make detections and cleanup - \r 7. Create drawing function and labelmap - \r 8. Draw to the canvas using requestAnimationFrame",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
